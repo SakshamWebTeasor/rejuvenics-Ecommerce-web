@@ -5,7 +5,7 @@ import "./MainPage.css"
 
 function Footer() {
     return (
-        <div className='FooterStickToBottom'>
+        <div id="footer" className='FooterStickToBottom'>
             <section className="footer snipcss-AWZJL">
                 <div className="container">
                     <div className="row align-items-center mt-4">

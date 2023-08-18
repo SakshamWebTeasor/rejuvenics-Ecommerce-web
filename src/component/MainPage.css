@@ -210,12 +210,13 @@ ul {
 }
 
 .FooterStickToBottom {
-    position: fixed !important;
+    /* position: fixed !important;  
     flex: 1;
     justify-content: flex-end;
     bottom: 0;
     right: 0;
-    left: 0;
+    left: 0; */
+    margin-top: 10px;
 }
 
 .col-12 {
